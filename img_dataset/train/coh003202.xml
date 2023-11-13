@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_dataset</folder>
+	<filename>coh003202.png</filename>
+	<path>/home/armando/img_dataset/coh003202.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4800</width>
+		<height>67</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meteor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>39</ymin>
+			<xmax>1417</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

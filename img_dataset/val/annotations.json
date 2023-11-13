@@ -1,0 +1,842 @@
+[
+  {
+    "annotation": {
+      "folder": "img_dataset",
+      "filename": "coh000202.png",
+      "path": "/home/soporte/img_dataset/coh000202.png",
+      "source": {
+        "database": "Unknown"
+      },
+      "size": {
+        "width": "4800",
+        "height": "67",
+        "depth": "1"
+      },
+      "segmented": "0",
+      "object": [
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "580",
+            "ymin": "33",
+            "xmax": "599",
+            "ymax": "43"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1384",
+            "ymin": "37",
+            "xmax": "1455",
+            "ymax": "49"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1846",
+            "ymin": "29",
+            "xmax": "1858",
+            "ymax": "42"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1872",
+            "ymin": "23",
+            "xmax": "1894",
+            "ymax": "32"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2328",
+            "ymin": "33",
+            "xmax": "2356",
+            "ymax": "46"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2468",
+            "ymin": "30",
+            "xmax": "2509",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2593",
+            "ymin": "27",
+            "xmax": "2625",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2785",
+            "ymin": "26",
+            "xmax": "2803",
+            "ymax": "34"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2978",
+            "ymin": "30",
+            "xmax": "2988",
+            "ymax": "37"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "folder": "img_dataset",
+      "filename": "coh001301.png",
+      "path": "/home/soporte/img_dataset/coh001301.png",
+      "source": {
+        "database": "Unknown"
+      },
+      "size": {
+        "width": "4800",
+        "height": "67",
+        "depth": "1"
+      },
+      "segmented": "0",
+      "object": [
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "14",
+            "ymin": "28",
+            "xmax": "28",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "138",
+            "ymin": "27",
+            "xmax": "153",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "171",
+            "ymin": "23",
+            "xmax": "182",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "42",
+            "ymin": "36",
+            "xmax": "105",
+            "ymax": "44"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "325",
+            "ymin": "19",
+            "xmax": "395",
+            "ymax": "40"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1004",
+            "ymin": "24",
+            "xmax": "1035",
+            "ymax": "42"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1074",
+            "ymin": "26",
+            "xmax": "1087",
+            "ymax": "33"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1933",
+            "ymin": "25",
+            "xmax": "1956",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2108",
+            "ymin": "30",
+            "xmax": "2132",
+            "ymax": "40"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2842",
+            "ymin": "33",
+            "xmax": "2876",
+            "ymax": "45"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2768",
+            "ymin": "11",
+            "xmax": "2775",
+            "ymax": "28"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3008",
+            "ymin": "22",
+            "xmax": "3016",
+            "ymax": "35"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3141",
+            "ymin": "31",
+            "xmax": "3152",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3373",
+            "ymin": "18",
+            "xmax": "3464",
+            "ymax": "44"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3696",
+            "ymin": "17",
+            "xmax": "3727",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3789",
+            "ymin": "26",
+            "xmax": "3799",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3864",
+            "ymin": "25",
+            "xmax": "3884",
+            "ymax": "35"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3933",
+            "ymin": "31",
+            "xmax": "3997",
+            "ymax": "45"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4073",
+            "ymin": "32",
+            "xmax": "4082",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4161",
+            "ymin": "31",
+            "xmax": "4181",
+            "ymax": "38"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "folder": "img_dataset",
+      "filename": "coh001601.png",
+      "path": "/home/soporte/img_dataset/coh001601.png",
+      "source": {
+        "database": "Unknown"
+      },
+      "size": {
+        "width": "4800",
+        "height": "67",
+        "depth": "1"
+      },
+      "segmented": "0",
+      "object": [
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "165",
+            "ymin": "31",
+            "xmax": "183",
+            "ymax": "40"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "164",
+            "ymin": "18",
+            "xmax": "173",
+            "ymax": "30"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "283",
+            "ymin": "18",
+            "xmax": "293",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "324",
+            "ymin": "28",
+            "xmax": "332",
+            "ymax": "34"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "333",
+            "ymin": "27",
+            "xmax": "339",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "340",
+            "ymin": "27",
+            "xmax": "348",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "488",
+            "ymin": "13",
+            "xmax": "588",
+            "ymax": "45"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "458",
+            "ymin": "29",
+            "xmax": "468",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "840",
+            "ymin": "18",
+            "xmax": "861",
+            "ymax": "40"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1264",
+            "ymin": "24",
+            "xmax": "1280",
+            "ymax": "40"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1659",
+            "ymin": "24",
+            "xmax": "1696",
+            "ymax": "42"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1526",
+            "ymin": "24",
+            "xmax": "1537",
+            "ymax": "37"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1494",
+            "ymin": "26",
+            "xmax": "1512",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2244",
+            "ymin": "19",
+            "xmax": "2269",
+            "ymax": "37"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2303",
+            "ymin": "24",
+            "xmax": "2312",
+            "ymax": "36"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2582",
+            "ymin": "23",
+            "xmax": "2613",
+            "ymax": "34"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2819",
+            "ymin": "33",
+            "xmax": "2833",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "2884",
+            "ymin": "23",
+            "xmax": "2922",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3095",
+            "ymin": "16",
+            "xmax": "3135",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3009",
+            "ymin": "6",
+            "xmax": "3020",
+            "ymax": "27"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3307",
+            "ymin": "29",
+            "xmax": "3330",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3384",
+            "ymin": "38",
+            "xmax": "3418",
+            "ymax": "44"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3732",
+            "ymin": "17",
+            "xmax": "3795",
+            "ymax": "43"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4300",
+            "ymin": "22",
+            "xmax": "4310",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4441",
+            "ymin": "6",
+            "xmax": "4460",
+            "ymax": "23"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4470",
+            "ymin": "22",
+            "xmax": "4494",
+            "ymax": "38"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4240",
+            "ymin": "4",
+            "xmax": "4247",
+            "ymax": "17"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4761",
+            "ymin": "8",
+            "xmax": "4771",
+            "ymax": "21"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "folder": "img_dataset",
+      "filename": "coh002300.png",
+      "path": "/home/armando/img_dataset/coh002300.png",
+      "source": {
+        "database": "Unknown"
+      },
+      "size": {
+        "width": "4800",
+        "height": "67",
+        "depth": "1"
+      },
+      "segmented": "0",
+      "object": [
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "442",
+            "ymin": "26",
+            "xmax": "453",
+            "ymax": "37"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "318",
+            "ymin": "25",
+            "xmax": "329",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "553",
+            "ymin": "25",
+            "xmax": "578",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1267",
+            "ymin": "26",
+            "xmax": "1302",
+            "ymax": "42"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "1489",
+            "ymin": "26",
+            "xmax": "1516",
+            "ymax": "39"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "3050",
+            "ymin": "31",
+            "xmax": "3074",
+            "ymax": "41"
+          }
+        },
+        {
+          "name": "meteor",
+          "pose": "Unspecified",
+          "truncated": "0",
+          "difficult": "0",
+          "bndbox": {
+            "xmin": "4024",
+            "ymin": "32",
+            "xmax": "4122",
+            "ymax": "40"
+          }
+        }
+      ]
+    }
+  }
+]
